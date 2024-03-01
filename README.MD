@@ -15,7 +15,7 @@ sudo apt-get install -y zip make cmake g++ libjemalloc-dev libboost-dev libgoogl
 git clone https://github.com/ZhengQiushi/LION.git
 ```
 
-# Install from docker
+# Install from Docker
 ```sh
 docker pull 413366511/ubuntu
 ./install_new.sh
